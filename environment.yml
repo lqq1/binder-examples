@@ -11,4 +11,5 @@ dependencies:
   - partd
   - bokeh
   - dask
-  - jupyter_contrib_nbextensions && jupyter contrib nbextension install
+  - jupyter_contrib_nbextensions
+  - jupyter_nbextensions_configurator
